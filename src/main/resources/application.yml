@@ -1,0 +1,9 @@
+spring:
+  application:
+    name: cardex-spring-cloud-api-gateway-service
+
+server:
+  port: ${port:8900}
+
+
+
